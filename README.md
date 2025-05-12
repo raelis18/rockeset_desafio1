@@ -1,1 +1,3 @@
-# rockeset_desafio1
+# Implementação de Práticas DevOps em um Ambiente Ficticio.
+
+## Diagnostico Cultural
